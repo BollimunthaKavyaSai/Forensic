@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+xgboost
+torch
+torch-geometric
+scipy
+matplotlib
+androguard
+python-evtx
+dissect.evidence
+dissect.ntfs
+regipy
+django
+djangorestframework
+pymongo

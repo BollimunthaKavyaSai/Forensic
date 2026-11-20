@@ -1,0 +1,6 @@
+{
+ "n_rows": 11476,
+ "n_unique_feature_vectors": 3077,
+ "frac_test_rows_with_identical_train_row_random_split": 0.7804986601686745,
+ "n_label_conflicting_groups": 178
+}

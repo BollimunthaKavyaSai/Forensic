@@ -1,0 +1,36 @@
+# Dataset
+data/
+
+archive/
+
+z_leave/
+
+
+frontend/node_modules/
+
+frontend/node_modules/typescript/
+
+frontend/.cache/
+node_modules/
+.cache/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and media
+backend/logs/
+*.log
+backend/media/reports/
+
+# Local databases
+backend/db.sqlite3
+
+# Frontend build output
+frontend/build/
+frontend/dist/
+
+# Models and notebooks (exclude from git)
+dl_models/
+*.ipynb

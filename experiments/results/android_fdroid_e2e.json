@@ -1,0 +1,20 @@
+{
+ "n_features": 172,
+ "n_apks": 49,
+ "n_parsed": 49,
+ "false_positive_rate": 0.02040816326530612,
+ "median_score": 0.002234427258372307,
+ "mean_seconds_per_apk": 0.4970103575258839,
+ "family_cv": {
+  "RandomForest": {
+   "acc": 0.9144,
+   "f1": 0.9111,
+   "auc": 0.9791
+  },
+  "XGBoost": {
+   "acc": 0.9155,
+   "f1": 0.9133,
+   "auc": 0.9731
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "android_tar": [
+  {
+   "n_packages": 50,
+   "tar_mb": 0.49152,
+   "seconds": 0.048383100001956336,
+   "members": 228,
+   "all_counts_correct": true,
+   "truth": {
+    "packages": 50,
+    "manifests": 50,
+    "db": 69,
+    "sp": 51,
+    "webview": 8
+   },
+   "extracted": {
+    "packages": 50,
+    "manifests": 50,
+    "db": 69,
+    "sp": 51,
+    "webview": 8
+   }
+  },
+  {
+   "n_packages": 200,
+   "tar_mb": 1.9968,
+   "seconds": 0.13074480000068434,
+   "members": 918,
+   "all_counts_correct": true,
+   "truth": {
+    "packages": 200,
+    "manifests": 200,
+    "db": 294,
+    "sp": 190,
+    "webview": 34
+   },
+   "extracted": {
+    "packages": 200,
+    "manifests": 200,
+    "db": 294,
+    "sp": 190,
+    "webview": 34
+   }
+  },
+  {
+   "n_packages": 1000,
+   "tar_mb": 9.94304,
+   "seconds": 0.49097579999943264,
+   "members": 4608,
+   "all_counts_correct": true,
+   "truth": {
+    "packages": 1000,
+    "manifests": 1000,
+    "db": 1455,
+    "sp": 962,
+    "webview": 191
+   },
+   "extracted": {
+    "packages": 1000,
+    "manifests": 1000,
+    "db": 1455,
+    "sp": 962,
+    "webview": 191
+   }
+  },
+  {
+   "n_packages": 5000,
+   "tar_mb": 50.98496,
+   "seconds": 1.7796803999954136,
+   "members": 23488,
+   "all_counts_correct": true,
+   "truth": {
+    "packages": 5000,
+    "manifests": 5000,
+    "db": 7514,
+    "sp": 4945,
+    "webview": 1029
+   },
+   "extracted": {
+    "packages": 5000,
+    "manifests": 5000,
+    "db": 7514,
+    "sp": 4945,
+    "webview": 1029
+   }
+  }
+ ],
+ "windows_gat_inference": [
+  {
+   "n_events": 1000,
+   "knn_graph_s": 1.633350733332918,
+   "gat_forward_s": 0.03802213333256077,
+   "total_s": 1.6713728666654788
+  },
+  {
+   "n_events": 5000,
+   "knn_graph_s": 0.10884050000458956,
+   "gat_forward_s": 0.06284036666329484,
+   "total_s": 0.1716808666678844
+  },
+  {
+   "n_events": 10000,
+   "knn_graph_s": 0.36748613333232544,
+   "gat_forward_s": 0.17654723333544098,
+   "total_s": 0.5440333666677665
+  },
+  {
+   "n_events": 50000,
+   "knn_graph_s": 4.7751917999994475,
+   "gat_forward_s": 0.8220149000020077,
+   "total_s": 5.597206700001455
+  }
+ ],
+ "android_tabtransformer_inference": [
+  {
+   "n_apps": 100,
+   "seconds": 0.03536596666284216
+  },
+  {
+   "n_apps": 1000,
+   "seconds": 0.06405940000452877
+  },
+  {
+   "n_apps": 10000,
+   "seconds": 0.478550500003621
+  }
+ ],
+ "hardware": {
+  "cpu": "Intel64 Family 6 Model 154 Stepping 4, GenuineIntel",
+  "threads": 4,
+  "torch": "2.14.0+cpu",
+  "python": "3.11.9",
+  "os": "Windows-10-10.0.26300-SP0"
+ }
+}

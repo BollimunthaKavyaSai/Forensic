@@ -1,0 +1,69 @@
+{
+ "registry": {
+  "usb_history": [],
+  "userassist": [],
+  "installed_programs": [],
+  "run_keys": [],
+  "last_logged_user": {},
+  "timezone_info": {},
+  "network_info": {}
+ },
+ "browser": {
+  "firefox": {
+   "history": [],
+   "cookies": [],
+   "downloads": []
+  },
+  "chrome_edge": {
+   "history": [],
+   "cookies": [],
+   "downloads": []
+  },
+  "internet_explorer": {
+   "history": [],
+   "cookies": []
+  }
+ },
+ "recycle_bin": {
+  "locations": [],
+  "deleted_files": [],
+  "summary": {
+   "total_deleted_files": 0,
+   "total_size": 0,
+   "date_range": {
+    "earliest": null,
+    "latest": null
+   }
+  }
+ },
+ "event_logs": {
+  "log_files": [],
+  "all_events": [],
+  "logon_events": [],
+  "system_events": [],
+  "summary": {
+   "total_events": 0,
+   "total_logon_events": 0,
+   "total_system_events": 0,
+   "date_range": {
+    "earliest": null,
+    "latest": null
+   }
+  }
+ },
+ "filesystem": {
+  "prefetch_files": [],
+  "link_files": [],
+  "jump_lists": [],
+  "usn_journal": {
+   "status": "USN Journal parsing requires advanced NTFS structure analysis",
+   "location": "/$Extend/$UsnJrnl",
+   "note": "This feature would parse file system change records"
+  },
+  "summary": {
+   "total_prefetch": 0,
+   "total_links": 0,
+   "total_jump_lists": 0
+  }
+ }
+}

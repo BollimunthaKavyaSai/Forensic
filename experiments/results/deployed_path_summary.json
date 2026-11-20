@@ -1,0 +1,34 @@
+{
+ "heuristic_positive_rate": [
+  0.6793,
+  0.024238073572920654
+ ],
+ "predicted_anomaly_rate": [
+  0.40279999999999994,
+  0.026686483864545207
+ ],
+ "agreement_with_heuristic": [
+  0.1859,
+  0.03548446657935064
+ ],
+ "kappa_with_heuristic": [
+  -0.5190774913448022,
+  0.04178232662170887
+ ],
+ "auc_score_vs_heuristic": [
+  0.2669468340954102,
+  0.053660025437854565
+ ],
+ "auc_score_vs_true_label": [
+  0.5050588998144389,
+  0.03166464114482354
+ ],
+ "predictions_changed_when_heuristic_zeroed": [
+  0.4013,
+  0.025441573933436712
+ ],
+ "predictions_changed_when_heuristic_inverted": [
+  0.4625,
+  0.02967809754152396
+ ]
+}

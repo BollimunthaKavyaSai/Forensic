@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+node_modules/
+*.log
+.env
+*.sqlite3
+app/data/
+experiments/data/
+*.E01
+*.E0[0-9]
+*.tar
+*.apk

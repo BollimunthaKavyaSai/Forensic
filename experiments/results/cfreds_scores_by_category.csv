@@ -1,0 +1,9 @@
+category,found_released,found_fixed,total
+"System identity (name, TZ, last user)",0,3,3
+Network settings,0,0,3
+Installed applications,0,9,9
+USB device serials,0,2,2
+Executed programs,0,18,22
+User profiles,0,3,4
+Browser search keywords,0,14,24
+Logon/startup timeline (.evtx),0,35,36
